@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#f3e2d6"/>
+  <text x="40" y="70" font-size="38" font-family="Malgun Gothic, sans-serif" fill="#2b1d1a">내 정보</text>
+  <rect x="40" y="110" width="720" height="300" rx="8" fill="#f5f5f5" stroke="#d9d9d9"/>
+  <text x="70" y="170" font-size="22" font-family="Malgun Gothic, sans-serif" fill="#2b1d1a">항목</text>
+  <text x="220" y="170" font-size="22" font-family="Malgun Gothic, sans-serif" fill="#2b1d1a">내용</text>
+  <line x1="60" y1="190" x2="740" y2="190" stroke="#d9d9d9"/>
+  <text x="70" y="240" font-size="22" font-family="Malgun Gothic, sans-serif" fill="#2b1d1a">이름</text>
+  <text x="220" y="240" font-size="22" font-family="Malgun Gothic, sans-serif" fill="#2b1d1a">조윤재</text>
+  <text x="70" y="290" font-size="22" font-family="Malgun Gothic, sans-serif" fill="#2b1d1a">아이디</text>
+  <text x="220" y="290" font-size="22" font-family="Malgun Gothic, sans-serif" fill="#2b1d1a">joyoonjae</text>
+  <text x="70" y="340" font-size="22" font-family="Malgun Gothic, sans-serif" fill="#2b1d1a">이메일</text>
+  <text x="220" y="340" font-size="22" font-family="Malgun Gothic, sans-serif" fill="#2b1d1a">joyoonjae@example.com</text>
+</svg>
