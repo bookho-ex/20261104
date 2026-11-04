@@ -23,11 +23,11 @@
 화면
 
 <div align="center">
-  <img src="./images/home-preview.svg" alt="홈 화면 미리보기" width="700" />
+  <img src="./images/스크린샷 2026-11-04 135440.png" alt="홈 화면 미리보기" width="700" />
   <br /><br />
-  <img src="./images/about-preview.svg" alt="내 정보 페이지 미리보기" width="700" />
+  <img src="./images/스크린샷 2026-11-04 135446.png" alt="내 정보 페이지 미리보기" width="700" />
   <br /><br />
-  <img src="./images/guestbook-preview.svg" alt="방명록 페이지 미리보기" width="700" />
+  <img src="./images/스크린샷 2026-11-04 135450.png" alt="방명록 페이지 미리보기" width="700" />
 </div>
 
 이번에 배운것
